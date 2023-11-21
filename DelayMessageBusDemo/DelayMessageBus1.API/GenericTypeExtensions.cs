@@ -1,3 +1,6 @@
+using System;
+using System.Linq;
+
 namespace DelayMessageBus1.API;
 
 public static class GenericTypeExtensions

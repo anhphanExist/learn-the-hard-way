@@ -1,3 +1,6 @@
+using System.Threading.Tasks;
+using Microsoft.Extensions.Logging;
+
 namespace DelayMessageBus2.API.Application
 {
     public class DelayMessageBus : IDelayMessageBus
